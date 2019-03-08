@@ -2,8 +2,4 @@ Initial Content
 Adding more Content
 Adding some Content from test Branch
 Adding some more Content from test Branch 
-<<<<<<< HEAD
-1
-=======
 
->>>>>>> 398c6a2f37c78105cc9c0e932a7f81504e91bf68
